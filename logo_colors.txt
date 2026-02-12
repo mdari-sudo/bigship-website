@@ -1,0 +1,6 @@
+Dominant colors from logo:
+#ffffff
+#00a652
+#fffeff
+#feffff
+#fffdff
